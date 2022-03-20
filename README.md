@@ -19,7 +19,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨‍🏛 I am currently **a research engineer at Hyundai MOBIS**.
+- 🏛 I am currently **a research engineer at Hyundai MOBIS**.
 - 💻 Major is **electronic control engineering and mechanical engineering**.
 - 🌱 I'm currently learning **reinforcement learning**. 
 - 🤔 My hobbies are **playing chess and running**.
