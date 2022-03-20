@@ -10,7 +10,7 @@
 <br />
 <br />
 
-- I am the top 0.5% chess player.
+- I am [the top 0.5% rapid chess player at chess.com.](https://www.chess.com/stats/live/rapid/titus_choi)
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
 - I also like **volunteering.** 
 
