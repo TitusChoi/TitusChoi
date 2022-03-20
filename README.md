@@ -1,4 +1,4 @@
-### Hey 👋, I'm Jack yu.
+### Hey 👋, I'm Titus Choi.
 
 <a href="https://github.com/yzp-99/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
