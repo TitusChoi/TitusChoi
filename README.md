@@ -20,8 +20,8 @@
 **Talking about Personal Stuffs:**
 
 - 👨‍🏛 I am currently **a research engineer at Hyundai MOBIS**.
-- 💻 Major is **Computer Science and Technology**.
-- 🌱 I'm currently learning ** **. 
+- 💻 Major is **electronic control engineering and mechanical engineering**.
+- 🌱 I'm currently learning **reinforcement learning**. 
 - 🤔 My hobbies are **playing chess and running**.
 - 💬 If you have any questions, **just ask me**.
 - This is my email: **chleleh812@gmail.com**.
