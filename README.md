@@ -6,14 +6,10 @@
 <a href="https://www.linkedin.com/in/dido-c-2749a61aa/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
 </a>
-<a href="https://www.chess.com/stats/live/rapid/titus_choi">
-  <img align="left" alt="Linkedin" width="22px" src="https://www.chess.com/article/view/chess-com-brand-resources" />
-</a>
 
 <br />
 <br />
-<img align="center" alt="jpg" width="720px" src="![chess_2](https://user-images.githubusercontent.com/58930352/159150290-a27675f1-6058-4e11-90ce-33ec5e2aecfe.png)
-" />
+
 - I am the top 0.5% chess player.
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
 - I also like **volunteering.** 
