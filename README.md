@@ -14,7 +14,7 @@
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
 - I also like **literature, reading and writing.** 
 
-<img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/熊猫.jpg" />
+<img align="right" alt="jpg" width="250px" src="https://ko.wikipedia.org/wiki/%ED%83%9C%EC%96%91#/media/%ED%8C%8C%EC%9D%BC:The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA's_Solar_Dynamics_Observatory_-_20100819.jpg" />
 
 **Talking about Personal Stuffs:**
 
@@ -24,18 +24,3 @@
 - 🤔 My hobbies are **playing chess and running**.
 - 💬 If you have any questions, **just ask me**.
 - This is my email: **yzplove99@gmail.com**.
-
-
-
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
-
-**Technology being learned**
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
-
-**Favorite sites**
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
