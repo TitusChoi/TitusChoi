@@ -3,16 +3,15 @@
 <a href="https://github.com/TitusChoi/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://mail.google.com/">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+<a href="https://www.linkedin.com/in/dido-c-2749a61aa/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
 </a>
 
 <br />
 <br />
 
-- I am a **Programming rookie** 
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
-- I also like **literature, reading and writing.** 
+- I also like **volunteering.** 
 
 <br />
 <br />
