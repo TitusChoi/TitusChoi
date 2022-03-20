@@ -22,6 +22,6 @@
 - 🏛 I am currently **a research engineer at Hyundai MOBIS**.
 - 💻 Major is **electronic control engineering and mechanical engineering**.
 - 🌱 I'm currently learning **reinforcement learning**. 
-- 🤔 My hobbies are **playing chess and running**.
+- 🤔 My hobbies are **playing chess and watching movie**.
 - 💬 If you have any questions, **just ask me**.
 - This is my email: **chleleh812@gmail.com**.
